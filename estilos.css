@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+
+
+form{
+    border: 5px solid rgba(35, 35, 172, 0.199);
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+
+
